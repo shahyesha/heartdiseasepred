@@ -21,3 +21,19 @@ The goal here is to find out more about data and become a subject matter export 
 3. What's missing form the data and how do you deal with it?
 4. Where are the outliers and why should you care about them?
 5. How can you add, change or remove features to get more out of your data?
+
+We are going to use three different machine learning models:
+1. Logistic Regression
+2. K-Nearest Neighbours Classifier
+3. Random Forest Classifier
+4. CatBoost Classifier
+
+## Evaluating our machine learning classifier, beyond accuracy
+
+* ROC curve and AUC score
+* Confusion matrix
+* Classification report
+* Precision
+* Recall
+* F1-score
+
